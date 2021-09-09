@@ -1,0 +1,209 @@
+
+body{
+	background: #2c3e50
+
+}
+.logo-wrapper{
+	margin: 0;
+	position: absolute;
+	margin-left: 20px;
+	width: 170px;
+	height: 130px;
+	position: fixed;
+	
+}
+.nav-li{
+	display: inline-block;
+	margin-left: 30px;
+	font-style: italic;
+	text-decoration: none;
+	color:orange;
+	}
+
+
+.nav-ul{
+	display: inline-block;
+	margin-left: 650px;
+	margin-top: 55px;
+	font-size: 26px;;
+	position: absolute;
+	position: fixed;	
+
+}
+
+.look{
+	width: 1250px;
+
+}
+.sendy{
+	margin-top: 100px;
+	width: 500px;
+	height: 500px;
+	margin-left: 50px;
+	border-radius: 10px;
+}
+	
+.text{
+	margin: 0;
+	display: inline-block;
+}
+.box{
+	height: 650px;
+	width: 1180px;
+	margin-top: 50px; 
+	box-sizing: border-box;
+	border-radius: 4px;
+	box-shadow: 0 5px 15px rgba(0,0,0,.5);
+	display: flex;
+	margin-left: 20px;
+}
+.imgbox{
+	margin-top: 25px;
+	margin-left: 50px;
+	width: 600px;
+	height: 600px;
+	border-radius: 10px;
+}
+.content{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.h2{
+	font-size: 40px;
+	margin-left: 150px;
+	margin-top: 50px;
+	color: white;
+	font-style: italic;
+}
+.racing{
+	margin-top: 50px;
+	width: 500px;
+	font-size: 30px;
+	font-style: italic;
+	color: white;
+}
+.h6{
+	margin: 0;
+	margin-top: 800px;
+}
+.nav{
+	position: absolute;
+	margin-top: 1300px;
+	margin-left: 800px;
+	font-size: 22px;
+}
+.nav-a{
+	display: inline;
+	text-decoration: none;
+	margin-right: 10px;
+	color: black;
+	
+}
+.brand{
+	position: absolute;
+	margin-top: 1310px;
+	font-size: 22px;
+	margin-left: 30px;
+	color: orange;
+}
+.images{
+	position: absolute;
+	width: 300px;
+	height:300px;
+	margin-top: 1400px;
+	margin-right: 50px;
+	margin-left: 55px;
+	border-radius: 10px;
+}
+.images1{
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	margin-left: 442px;
+	margin-top: 1400px;
+	border-radius: 10px;
+
+}
+.active{
+	color: white;
+	background-color: red;
+	border-radius: 5px;
+	width: 40px;
+}
+.images2{
+	position: absolute;
+	margin-left: 832px;
+	margin-top: 1400px;
+	width: 300px;
+	height: 300px;
+	border-radius: 10px;
+}
+.images3{
+	position: absolute;
+	width: 300px;
+	height:300px;
+	margin-top:1750px; 
+	margin-left: 52px;
+	border-radius: 10px;
+}
+.images4{
+	position: absolute;
+	margin-top: 1750px;
+	margin-left: 442px;
+	width: 300px;
+	height: 300px;
+	border-radius: 10px;
+}
+.images5{
+	position: absolute;
+	position: absolute;
+	margin-top: 1750px;
+	margin-left: 832px;
+	width: 300px;
+	height: 300px;
+	border-radius: 10px;
+}
+
+
+.biker{
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 44px;
+	font-size:22px;
+	color: orange;
+}
+.save{
+	position: absolute;
+	margin-top: 800px;
+	font-size: 82px;
+	width: 350px;
+	margin-left: 100px;
+	font-style: italic;
+	color: orange;
+
+}
+.ride{
+	position: absolute;
+	margin-top: 730px;
+	margin-left: 500px;
+	width: 600px;
+	height: 500px;
+	border-radius: 10px;
+}
+
+ .vidwrapper{
+ 	width: 100%;max-width:1170px; 
+ 	margin: 3em auto;
+ 	border: 5px solid yellowgreen;
+ 	position: absolute;
+ 	margin-top: 2100px;
+ }
+ .vidcontainer{
+ 	widows: 100%;max-width: 100%;height: 0;
+ 	padding-bottom: 56.25%; /*720/1280*/
+ 	border: 5px solid orange;
+ }
+ .active1{
+ 	color: red;
+ }
+ 
